@@ -1,0 +1,51 @@
+C:\Users\Никита\source\repos\Игра\bin\Debug\netcoreapp3.1\Игра.exe
+C:\Users\Никита\source\repos\Игра\bin\Debug\netcoreapp3.1\Игра.deps.json
+C:\Users\Никита\source\repos\Игра\bin\Debug\netcoreapp3.1\Игра.runtimeconfig.json
+C:\Users\Никита\source\repos\Игра\bin\Debug\netcoreapp3.1\Игра.runtimeconfig.dev.json
+C:\Users\Никита\source\repos\Игра\bin\Debug\netcoreapp3.1\Игра.dll
+C:\Users\Никита\source\repos\Игра\bin\Debug\netcoreapp3.1\Игра.pdb
+C:\Users\Никита\source\repos\Игра\obj\Debug\netcoreapp3.1\Игра.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\Игра\obj\Debug\netcoreapp3.1\Игра.Menu.resources
+C:\Users\Никита\source\repos\Игра\obj\Debug\netcoreapp3.1\Игра.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\Игра\obj\Debug\netcoreapp3.1\Игра.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\Игра\obj\Debug\netcoreapp3.1\Игра.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\Игра\obj\Debug\netcoreapp3.1\Игра.AssemblyInfo.cs
+C:\Users\Никита\source\repos\Игра\obj\Debug\netcoreapp3.1\Игра.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Игра\obj\Debug\netcoreapp3.1\Игра.dll
+C:\Users\Никита\source\repos\Игра\obj\Debug\netcoreapp3.1\Игра.pdb
+C:\Users\Никита\source\repos\Игра\obj\Debug\netcoreapp3.1\Игра.genruntimeconfig.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.exe
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.deps.json
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.runtimeconfig.json
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.runtimeconfig.dev.json
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.dll
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.pdb
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.csproj.AssemblyReference.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.Menu.resources
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.csproj.GenerateResource.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.AssemblyInfoInputs.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.AssemblyInfo.cs
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.csproj.CoreCompileInputs.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.dll
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.pdb
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.genruntimeconfig.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.Choose.resources
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.Properties.Resources.resources
+C:\Users\Никита\Desktop\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.exe
+C:\Users\Никита\Desktop\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.deps.json
+C:\Users\Никита\Desktop\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.runtimeconfig.json
+C:\Users\Никита\Desktop\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.runtimeconfig.dev.json
+C:\Users\Никита\Desktop\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.dll
+C:\Users\Никита\Desktop\Игра\Проект\bin\Debug\netcoreapp3.1\Игра.pdb
+C:\Users\Никита\Desktop\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.Properties.Resources.resources
+C:\Users\Никита\Desktop\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.dll
+C:\Users\Никита\Desktop\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.pdb
+C:\Users\Никита\Desktop\Игра\Проект\obj\Debug\netcoreapp3.1\Игра.genruntimeconfig.cache
+C:\Users\Никита\Desktop\Игра\Проект\obj\Debug\netcoreapp3.1\Game.Level.resources
+C:\Users\Никита\Desktop\Игра\Проект\obj\Debug\netcoreapp3.1\Game.Menu.resources
